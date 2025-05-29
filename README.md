@@ -1,4 +1,4 @@
-# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> cómo estás?
+# <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="40"> <b> Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> cómo estás?
 
 <p align="center">
   <a href="[https://github.com/jfpm10-ua]()"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenido+a+mi+Github;Soy+estudiante+universitario;Estudiante+de+IA+🤖"></a>
