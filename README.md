@@ -1,9 +1,7 @@
 ## Hola 👋 soy Jose Francisco 
+
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+CodeWhiteWeb;I+am+a+High+school+student"></a>
-</p>
-<p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github;Soy+estudiante+ universitario;Estudiante+de+Inteligencia+Artificial;Game+Dev;Bot+Dev;Crypto+Lover+%3C3"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github;Soy+estudiante+universitario;Estudiante+de+Inteligencia+Artificial"></a>
 </p>
 <!--
 **jfpm10-ua/jfpm10-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
