@@ -1,7 +1,7 @@
-## Hola 👋 soy Jose Francisco 
+# Hola <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> cómo estás?
 
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hola+%2C+bienvenido+a+mi+Github;Soy+estudiante+universitario;Estudiante+de+Inteligencia+Artificial"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Bienvenido+a+mi+Github;Soy+estudiante+universitario;Estudiante+de+Inteligencia+Artificial"></a>
 </p>
 <!--
 **jfpm10-ua/jfpm10-ua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
